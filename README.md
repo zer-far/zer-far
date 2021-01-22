@@ -24,3 +24,18 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>
 
+<pre><font color="#55FF55"><b> ██████████████████  ████████     pc</b></font><b>@</b><font color="#55FF55"></font>
+<font color="#55FF55"><b> ██████████████████  ████████     OS:</b></font>
+<font color="#55FF55"><b> ██████████████████  ████████     Kernel:</b></font>
+<font color="#55FF55"><b> ██████████████████  ████████     Uptime:</b></font>
+<font color="#55FF55"><b> ████████            ████████     Packages:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     Shell:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     Resolution:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     DE:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     WM:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     WM Theme:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     GTK Theme:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     Icon Theme:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     Font:</b></font>
+<font color="#55FF55"><b> ████████  ████████  ████████     Disk:</b></font>
+                             </pre>

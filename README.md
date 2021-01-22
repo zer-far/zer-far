@@ -24,7 +24,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>
 
-<pre><font color="#55FF55"><b> ██████████████████  ████████     </b></font><b>@</b><font color="#55FF55"></font>
+<pre><font color="#55FF55"><b> ██████████████████  ████████     </b></font>I switched from Ubuntu to Manjaro.<font color="#55FF55"></font>
 <font color="#55FF55"><b> ██████████████████  ████████     </b></font> 
 <font color="#55FF55"><b> ██████████████████  ████████     </b></font> 
 <font color="#55FF55"><b> ██████████████████  ████████     </b></font> 

@@ -23,22 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zer-far&show_icons=true&locale=en" alt="zer-far" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>
-
-<pre><font color="#55FF55"><b> ██████████████████  ████████     </b></font>I switched from Ubuntu to Manjaro.<font color="#55FF55"></font>
-<font color="#55FF55"><b> ██████████████████  ████████     </b></font> 
-<font color="#55FF55"><b> ██████████████████  ████████     </b></font> 
-<font color="#55FF55"><b> ██████████████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████            ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-<font color="#55FF55"><b> ████████  ████████  ████████     </b></font> 
-                                 <font color="#55FF55"><b> </b></font> 
-<font color="#55FF55"><b>                                  </b></font> 
-<font color="#55FF55"><b>                                  </b></font> 
-</pre>

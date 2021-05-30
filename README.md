@@ -7,4 +7,4 @@
 
 [//]: # (<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zer-far&show_icons=true&locale=en" alt="zer-far" /></p>)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>

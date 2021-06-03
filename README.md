@@ -7,5 +7,5 @@
 
 [//]: # (<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=zer-far&show_icons=true&locale=en" alt="zer-far" /></p>)
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>  
 [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ZgkgyZ_DG-FtKeONhF7vMsqiNgpOD-17vYtOktQLu1?value1=GitHub)

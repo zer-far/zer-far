@@ -1,5 +1,5 @@
 ![](https://hit.yhype.me/github/profile?user_id=73560425)
-<h1 align="center">Hello 👋, I'm Abdullah</h1>
+<h1 align="center">Hi 👋, I'm Abdullah</h1>
 
 ![Picture](asset.png "Picture")
 

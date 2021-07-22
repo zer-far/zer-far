@@ -10,3 +10,5 @@
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=zer-far&" alt="zer-far" /></p>
 
 [Send a notification to my phone](https://maker.ifttt.com/trigger/notification/with/key/ZgkgyZ_DG-FtKeONhF7vMsqiNgpOD-17vYtOktQLu1?value1=GitHub)
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/zerf)
